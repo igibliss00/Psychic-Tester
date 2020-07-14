@@ -6,7 +6,7 @@ An iOS app that demontrate the use case of view controller containment, CAEmitte
 
 ## Features
 
-###View Controller Containment
+### View Controller Containment
 
 Why use view controller containment instead of just UIView?
 
